@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="RrdqDhp1H6qC5THw-l_l">
-    <mxGraphModel dx="1720" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,10 @@
         <mxCell id="mPh6eaGP7kP76w8ozaJa-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;" value="Внутрення карточка" vertex="1">
           <mxGeometry height="30" width="260" x="40" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="mPh6eaGP7kP76w8ozaJa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="2i_LVc_wX-aHsK4jBH9n-2" edge="1" parent="1" source="mPh6eaGP7kP76w8ozaJa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2i_LVc_wX-aHsK4jBH9n-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPh6eaGP7kP76w8ozaJa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Объявление" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="1109" as="geometry" />
         </mxCell>
         <mxCell id="mPh6eaGP7kP76w8ozaJa-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=light-dark(#000000,#009900);" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Результат&lt;/span&gt;" vertex="1">
@@ -184,6 +187,9 @@
         </mxCell>
         <mxCell id="mPh6eaGP7kP76w8ozaJa-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;caret-color: rgb(237, 237, 237); font-size: 14px; white-space-collapse: preserve; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Мои объявления&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="640" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2i_LVc_wX-aHsK4jBH9n-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Условия" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1249" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
